@@ -1,0 +1,24 @@
+# PlayStation
+{
+  "id": 1,
+  "nombre": "Beto lopez Plaza",
+  "username": "Bret",
+  "email": "AngelaMar@gmail.com",
+  "habla a": {
+    "calle": "Kulas Light",
+    "suite": "Apto. 556",
+    "ciudad": "Gwenborough",
+    "código postal": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "teléfono": "1-770-736-8031 x56442",
+  "sitio web": "hildegard.org",
+  "empresa": {
+    "nombre": "Romaguera-Crona",
+    "catchPhrase": "Red neuronal cliente-servidor multicapa",
+    "bs": "aprovechar los mercados electrónicos en tiempo real"
+  }
+}
